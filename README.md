@@ -30,7 +30,9 @@ I'm a 13-year-old developer focused on reverse engineering and game software dev
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pashadarkgemplay&show_icons=true&theme=tokyonight&hide_border=true" alt="pashadarkgemplay's GitHub stats" />
+  <a href="https://github.com/pashadarkgemplay">
+    <img src="https://github-readme-stats.vercel.app/api?username=pashadarkgemplay&show_icons=true&theme=tokyonight&hide_border=true" alt="pashadarkgemplay's GitHub stats" />
+  </a>
 </p>
 
 > *"No system is safe."* 
