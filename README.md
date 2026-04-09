@@ -29,6 +29,8 @@ I'm a 13-year-old developer focused on reverse engineering and game software dev
 
 ---
 
-[![pashadarkgemplay's GitHub stats](https://github-readme-stats.vercel.app/api?username=pashadarkgemplay&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/pashadarkgemplay)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pashadarkgemplay&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
 > *"No system is safe."* 
